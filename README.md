@@ -143,11 +143,10 @@ void loop(){
 }
  ```
 
-### RESULTS :  Line follower robot (LFR) has sucessfully configured to follows a line drawn on the ground to either detect a dark line on a white surface or a white line on a dark by control its motion using differential velocity 
+### RESULTS :  
+Line follower robot (LFR) has sucessfully configured to follows a line drawn on the ground to either detect a dark line on a white surface or a white line on a dark by control its motion using differential velocity 
 
 ### WORKING VIDEO  :
-
-
 
 https://user-images.githubusercontent.com/75234588/174421069-c0e69ec8-865a-451d-9ba0-1fc87ce04c7a.mp4
 
